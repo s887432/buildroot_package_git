@@ -1,0 +1,4 @@
+config BR2_PACKAGE_HELLOWORLD
+	bool "helloworld demo"
+	help
+	  helloworld demo application.
